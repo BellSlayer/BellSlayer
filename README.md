@@ -12,3 +12,8 @@ Project #2: Ecommerce User Activity Analysis:
 - I analyzed user behavior through an ecommerce website based on event logs. The goal of the project was to evaluate website performance, user retention, and conversion rates across a customer's journey through the website. 
 - Software used: Google Sheets
 - Project link: https://docs.google.com/spreadsheets/d/1oMQMKM8wiZqpQBTttwxDWZSm3Ft1FpPK4tXQvPy3obM/edit?usp=sharing
+
+Project #3: SuperStore Operations Analysis:
+- I analyzed SuperStore's operations and the goal was to increase profitability to avoid bankruptcy. I looked at 3 different areas: profit & losses, advertising (determine if worth it), and returned items by customers. 
+- Software used: Tableau
+- Project Link: https://public.tableau.com/views/Sprint4Project-2025-07-17/3C-AvgProfitvs_ReturnRatebySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
