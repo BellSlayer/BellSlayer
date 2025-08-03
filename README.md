@@ -17,3 +17,8 @@ Project #3: SuperStore Operations Analysis:
 - I analyzed SuperStore's operations and the goal was to increase profitability to avoid bankruptcy. I looked at 3 different areas: profit & losses, advertising (determine if worth it), and returned items by customers. 
 - Software used: Tableau
 - Project Link: https://public.tableau.com/views/Sprint4Project-2025-07-17/3C-AvgProfitvs_ReturnRatebySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Project #4: SuperStore Return Analysis:
+- I created a Tableau story dashboard to analyze customer return rates across product sub-categories, regions, and shipping methods. The goal was to identify patterns and recommend ways to reduce losses caused by frequent returns.
+- Software used: Tableau
+- Project Link: https://public.tableau.com/views/SuperStoreReturnAnalysis-EthanBell/ReturnRatebySub-CategoryRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
