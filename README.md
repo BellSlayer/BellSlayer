@@ -13,12 +13,19 @@ Project #2: Ecommerce User Activity Analysis:
 - Software used: Google Sheets
 - Project link: https://docs.google.com/spreadsheets/d/1oMQMKM8wiZqpQBTttwxDWZSm3Ft1FpPK4tXQvPy3obM/edit?usp=sharing
 
-Project #3: SuperStore Operations Analysis:
+Project #3: Startup Trends Analysis:
+-  I explored funding, acquisition, and founder data using SQL inside a simulated database provided by TripleTen. The project focused on real-world business scenarios, including analyzing startup failure rates, investment volatility, and education impact on success.
+-  Software used: SQL (TripleTen browser-based platform)
+-  Project link: https://drive.google.com/file/d/1-bLrwpmLOZ0PXq1ZaSYJS-jb_pW3F1mE/view?usp=sharing
+
+Project #4: SuperStore Operations Analysis:
 - I analyzed SuperStore's operations and the goal was to increase profitability to avoid bankruptcy. I looked at 3 different areas: profit & losses, advertising (determine if worth it), and returned items by customers. 
 - Software used: Tableau
 - Project Link: https://public.tableau.com/views/Sprint4Project-2025-07-17/3C-AvgProfitvs_ReturnRatebySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Project #4: SuperStore Return Analysis:
+Project #5: SuperStore Return Analysis:
 - I created a Tableau story dashboard to analyze customer return rates across product sub-categories, regions, and shipping methods. The goal was to identify patterns and recommend ways to reduce losses caused by frequent returns.
 - Software used: Tableau
 - Project Link: https://public.tableau.com/views/SuperStoreReturnAnalysis-EthanBell/ReturnRatebySub-CategoryRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
