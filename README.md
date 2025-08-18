@@ -30,7 +30,7 @@ Project #5: SuperStore Return Analysis:
 
 | Project number | Title | Software used | Description | 
 | :-----------: | ----------- | ------------ | ----------- |
-| 1 | NYC Airbnb Property Investment| Google Sheets | The project task was to figure out which neighborhoods and property sizes in Manhattan are most attractive for vacation rentals as well as how much money they generated as a result. |
+| 1 | [NYC Airbnb Property Investment] (https://docs.google.com/spreadsheets/d/1eQdpDcBoRx42XJQpwrSzOWQVx6KOuW0xXI2gdKOKoJ0/edit?usp=sharing) | Google Sheets | The project task was to figure out which neighborhoods and property sizes in Manhattan are most attractive for vacation rentals as well as how much money they generated as a result. |
 | 2 | Ecommerce User Activity Analysis | Google Sheets | I analyzed user behavior through an ecommerce website based on event logs. The goal of the project was to evaluate website performance, user retention, and conversion rates across a customer's journey through the website. |
 | 3 | Startup Trends Analysis | SQL (TripleTen browser-based platform) |  I explored funding, acquisition, and founder data using SQL inside a simulated database provided by TripleTen. The project focused on real-world business scenarios, including analyzing startup failure rates, investment volatility, and education impact on success. |
 | 4 | SuperStore Operations Analysis | Tableau | I analyzed SuperStore's operations and the goal was to increase profitability to avoid bankruptcy. I looked at 3 different areas: profit & losses, advertising (determine if worth it), and returned items by customers. |
