@@ -30,7 +30,7 @@ Project #5: SuperStore Return Analysis:
 
 | Project number | Title | Software used | Description | 
 | :-----------: | ----------- | ------------ | ----------- |
-| 1 | NYC Airbnb Property Investment| The project task was to figure out which neighborhoods and property sizes in Manhattan are most attractive for vacation rentals as well as how much money they generated as a result. |
+| 1 | NYC Airbnb Property Investment| Google Sheets | The project task was to figure out which neighborhoods and property sizes in Manhattan are most attractive for vacation rentals as well as how much money they generated as a result. |
 | 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
 | 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
